@@ -147,10 +147,6 @@ h2 span {
   margin-left: 1rem;
 }
 
-h4,
-.h4 {
-  font-size: 1.5rem;
-}
 
 .mb-5 {
   margin-bottom: 3rem !important;
@@ -481,7 +477,7 @@ h5 {
 
 .homepage-1 .info-help.h18 {
   padding: 9rem 0;
-  background: url(../images/bg/bg-2-home-5.png) no-repeat scroll center center;
+  background: url(../images/bg/bg-service-home-5.png) no-repeat scroll center center;
   background-size: cover;
   position: relative;
   z-index: 0 !important;
@@ -697,7 +693,7 @@ h5 {
 
 .homepage-1 .info-help.h17 {
   padding: 9rem 0;
-  background: url(../images/bg/bg-2-home-5.png) no-repeat scroll center center;
+  background: url(../images/bg/bg-2-home-51.jpg) no-repeat scroll center center;
   background-size: cover;
   position: relative;
   z-index: 0 !important;
